@@ -1,0 +1,333 @@
+2023-10-25 18:02:11.440 [info] 
+
+
+
+
+2023-10-25 18:02:11.440 [info] Extension host agent started.
+2023-10-25 18:02:11.485 [info] Started initializing default profile extensions in extensions installation folder. file:///home/talisag/.vscode-server/extensions
+2023-10-25 18:02:11.517 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/talisag/.vscode-server/extensions
+2023-10-25 18:02:12.365 [info] [127.0.0.1][b09ebdf4][ManagementConnection] New connection established.
+2023-10-25 18:02:12.368 [info] [127.0.0.1][3743de7a][ExtensionHostConnection] New connection established.
+2023-10-25 18:02:12.569 [info] [127.0.0.1][3743de7a][ExtensionHostConnection] <649> Launched Extension Host Process.
+2023-10-25 18:03:38.771 [info] Getting Manifest... sugatoray.vscode-remotework-extension-pack
+2023-10-25 18:03:38.899 [info] Installing extension: sugatoray.vscode-remotework-extension-pack
+2023-10-25 18:03:39.578 [info] Getting Manifest... ritwickdey.liveserver
+2023-10-25 18:03:39.689 [info] Getting Manifest... ms-azuretools.vscode-docker
+2023-10-25 18:03:39.924 [info] Getting Manifest... ms-vscode-remote.remote-wsl
+2023-10-25 18:03:40.028 [info] Getting Manifest... ms-vscode-remote.remote-containers
+2023-10-25 18:03:40.132 [info] Getting Manifest... ms-vscode-remote.remote-ssh
+2023-10-25 18:03:40.457 [info] Getting Manifest... ms-vscode-remote.remote-ssh-edit
+2023-10-25 18:03:40.544 [info] Getting Manifest... ms-vscode.remote-explorer
+2023-10-25 18:03:40.644 [info] Getting Manifest... ms-vscode-remote.vscode-remote-extensionpack
+2023-10-25 18:03:40.993 [info] Getting Manifest... ms-vscode.remote-server
+2023-10-25 18:03:41.095 [info] Getting Manifest... ms-vscode.live-server
+2023-10-25 18:03:41.178 [info] Getting Manifest... github.remotehub
+2023-10-25 18:03:41.396 [info] Getting Manifest... ms-vscode.remote-repositories
+2023-10-25 18:03:41.580 [info] Getting Manifest... ms-vscode.azure-repos
+2023-10-25 18:03:41.668 [info] Getting Manifest... gitpod.gitpod-remote-ssh
+2023-10-25 18:03:41.785 [info] Getting Manifest... gitpod.gitpod-desktop
+2023-10-25 18:03:41.870 [info] Getting Manifest... lostintangent.vsls-whiteboard
+2023-10-25 18:03:42.054 [info] Getting Manifest... ms-vsliveshare.vsliveshare
+2023-10-25 18:03:42.238 [info] Installing extension: ritwickdey.liveserver sugatoray.vscode-remotework-extension-pack
+2023-10-25 18:03:42.239 [info] Installing extension: ms-azuretools.vscode-docker sugatoray.vscode-remotework-extension-pack
+2023-10-25 18:03:42.239 [info] Installing extension: ms-vscode-remote.remote-wsl sugatoray.vscode-remotework-extension-pack
+2023-10-25 18:03:42.239 [info] Installing extension: ms-vscode-remote.remote-containers sugatoray.vscode-remotework-extension-pack
+2023-10-25 18:03:42.239 [info] Installing extension: ms-vscode-remote.remote-ssh sugatoray.vscode-remotework-extension-pack
+2023-10-25 18:03:42.239 [info] Installing extension: ms-vscode-remote.remote-ssh-edit sugatoray.vscode-remotework-extension-pack
+2023-10-25 18:03:42.240 [info] Installing extension: ms-vscode.remote-explorer sugatoray.vscode-remotework-extension-pack
+2023-10-25 18:03:42.240 [info] Installing extension: ms-vscode-remote.vscode-remote-extensionpack sugatoray.vscode-remotework-extension-pack
+2023-10-25 18:03:42.240 [info] Installing extension: ms-vscode.remote-server sugatoray.vscode-remotework-extension-pack
+2023-10-25 18:03:42.240 [info] Installing extension: ms-vscode.live-server sugatoray.vscode-remotework-extension-pack
+2023-10-25 18:03:42.240 [info] Installing extension: github.remotehub sugatoray.vscode-remotework-extension-pack
+2023-10-25 18:03:42.240 [info] Installing extension: ms-vscode.remote-repositories sugatoray.vscode-remotework-extension-pack
+2023-10-25 18:03:42.241 [info] Installing extension: ms-vscode.azure-repos sugatoray.vscode-remotework-extension-pack
+2023-10-25 18:03:42.241 [info] Installing extension: gitpod.gitpod-remote-ssh sugatoray.vscode-remotework-extension-pack
+2023-10-25 18:03:42.241 [info] Installing extension: gitpod.gitpod-desktop sugatoray.vscode-remotework-extension-pack
+2023-10-25 18:03:42.241 [info] Installing extension: lostintangent.vsls-whiteboard sugatoray.vscode-remotework-extension-pack
+2023-10-25 18:03:42.241 [info] Installing extension: ms-vsliveshare.vsliveshare sugatoray.vscode-remotework-extension-pack
+2023-10-25 18:03:43.969 [warning] Extension signature verification failed with error 'ENOENT': ms-vscode-remote.vscode-remote-extensionpack
+2023-10-25 18:03:44.162 [warning] Extension signature verification failed with error 'ENOENT': ms-azuretools.vscode-docker
+2023-10-25 18:03:44.162 [warning] Extension signature verification failed with error 'ENOENT': ms-vscode.remote-explorer
+2023-10-25 18:03:44.163 [warning] Extension signature verification failed with error 'ENOENT': ms-vscode-remote.remote-ssh
+2023-10-25 18:03:44.229 [warning] Extension signature verification failed with error 'ENOENT': ms-vscode.remote-server
+2023-10-25 18:03:44.296 [warning] Extension signature verification failed with error 'ENOENT': ms-vscode-remote.remote-ssh-edit
+2023-10-25 18:03:44.424 [warning] Extension signature verification failed with error 'ENOENT': ms-vscode-remote.remote-wsl
+2023-10-25 18:03:44.425 [warning] Extension signature verification failed with error 'ENOENT': ms-vscode-remote.remote-containers
+2023-10-25 18:03:44.428 [warning] Extension signature verification failed with error 'ENOENT': ms-vscode.remote-repositories
+2023-10-25 18:03:44.479 [warning] Extension signature verification failed with error 'ENOENT': ms-vscode.live-server
+2023-10-25 18:03:44.534 [warning] Extension signature verification failed with error 'ENOENT': gitpod.gitpod-desktop
+2023-10-25 18:03:44.605 [warning] Extension signature verification failed with error 'ENOENT': gitpod.gitpod-remote-ssh
+2023-10-25 18:03:44.622 [info] Extracted extension to file:///home/talisag/.vscode-server/extensions/ms-vscode-remote.vscode-remote-extensionpack-0.24.0: ms-vscode-remote.vscode-remote-extensionpack
+2023-10-25 18:03:44.674 [info] Renamed to /home/talisag/.vscode-server/extensions/ms-vscode-remote.vscode-remote-extensionpack-0.24.0
+2023-10-25 18:03:44.696 [warning] Extension signature verification failed with error 'ENOENT': ms-vsliveshare.vsliveshare
+2023-10-25 18:03:44.713 [info] Extracting extension completed. ms-vscode-remote.vscode-remote-extensionpack
+2023-10-25 18:03:44.839 [warning] Extension signature verification failed with error 'ENOENT': ritwickdey.liveserver
+2023-10-25 18:03:45.324 [info] Extracted extension to file:///home/talisag/.vscode-server/extensions/ms-vscode.remote-explorer-0.4.1: ms-vscode.remote-explorer
+2023-10-25 18:03:45.359 [info] Renamed to /home/talisag/.vscode-server/extensions/ms-vscode.remote-explorer-0.4.1
+2023-10-25 18:03:45.362 [info] Extracted extension to file:///home/talisag/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.50: gitpod.gitpod-remote-ssh
+2023-10-25 18:03:45.387 [info] Extracting extension completed. ms-vscode.remote-explorer
+2023-10-25 18:03:45.390 [info] Renamed to /home/talisag/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.50
+2023-10-25 18:03:45.409 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 18:03:45.409 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 18:03:45.409 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 18:03:45.409 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 18:03:45.412 [info] Extracting extension completed. gitpod.gitpod-remote-ssh
+2023-10-25 18:03:45.677 [info] Extracted extension to file:///home/talisag/.vscode-server/extensions/ms-vscode.live-server-0.4.11: ms-vscode.live-server
+2023-10-25 18:03:45.724 [info] Renamed to /home/talisag/.vscode-server/extensions/ms-vscode.live-server-0.4.11
+2023-10-25 18:03:45.755 [info] Extracting extension completed. ms-vscode.live-server
+2023-10-25 18:03:45.845 [info] Extracted extension to file:///home/talisag/.vscode-server/extensions/ms-vscode-remote.remote-ssh-edit-0.86.0: ms-vscode-remote.remote-ssh-edit
+2023-10-25 18:03:45.872 [info] Renamed to /home/talisag/.vscode-server/extensions/ms-vscode-remote.remote-ssh-edit-0.86.0
+2023-10-25 18:03:45.876 [info] Extracted extension to file:///home/talisag/.vscode-server/extensions/ms-vscode.remote-server-1.4.3: ms-vscode.remote-server
+2023-10-25 18:03:45.892 [info] Extracting extension completed. ms-vscode-remote.remote-ssh-edit
+2023-10-25 18:03:45.898 [info] Renamed to /home/talisag/.vscode-server/extensions/ms-vscode.remote-server-1.4.3
+2023-10-25 18:03:45.922 [info] Extracting extension completed. ms-vscode.remote-server
+2023-10-25 18:03:45.955 [info] Extracted extension to file:///home/talisag/.vscode-server/extensions/ms-vscode.remote-repositories-0.40.0: ms-vscode.remote-repositories
+2023-10-25 18:03:45.976 [info] Renamed to /home/talisag/.vscode-server/extensions/ms-vscode.remote-repositories-0.40.0
+2023-10-25 18:03:46.005 [info] Extracting extension completed. ms-vscode.remote-repositories
+2023-10-25 18:03:46.159 [info] Extracted extension to file:///home/talisag/.vscode-server/extensions/ms-vscode-remote.remote-ssh-0.106.5: ms-vscode-remote.remote-ssh
+2023-10-25 18:03:46.192 [info] Renamed to /home/talisag/.vscode-server/extensions/ms-vscode-remote.remote-ssh-0.106.5
+2023-10-25 18:03:46.231 [info] Extracting extension completed. ms-vscode-remote.remote-ssh
+2023-10-25 18:03:46.385 [info] Extracted extension to file:///home/talisag/.vscode-server/extensions/ms-vscode-remote.remote-wsl-0.81.8: ms-vscode-remote.remote-wsl
+2023-10-25 18:03:46.412 [info] Renamed to /home/talisag/.vscode-server/extensions/ms-vscode-remote.remote-wsl-0.81.8
+2023-10-25 18:03:46.438 [info] Extracting extension completed. ms-vscode-remote.remote-wsl
+2023-10-25 18:03:46.494 [info] Extracted extension to file:///home/talisag/.vscode-server/extensions/ms-azuretools.vscode-docker-1.27.0: ms-azuretools.vscode-docker
+2023-10-25 18:03:46.514 [info] Renamed to /home/talisag/.vscode-server/extensions/ms-azuretools.vscode-docker-1.27.0
+2023-10-25 18:03:46.537 [info] Extracting extension completed. ms-azuretools.vscode-docker
+2023-10-25 18:03:46.944 [info] Extracted extension to file:///home/talisag/.vscode-server/extensions/gitpod.gitpod-desktop-0.0.163: gitpod.gitpod-desktop
+2023-10-25 18:03:46.959 [info] Renamed to /home/talisag/.vscode-server/extensions/gitpod.gitpod-desktop-0.0.163
+2023-10-25 18:03:46.971 [info] Extracting extension completed. gitpod.gitpod-desktop
+2023-10-25 18:03:47.118 [info] Extracted extension to file:///home/talisag/.vscode-server/extensions/ms-vscode-remote.remote-containers-0.315.1: ms-vscode-remote.remote-containers
+2023-10-25 18:03:47.144 [info] Renamed to /home/talisag/.vscode-server/extensions/ms-vscode-remote.remote-containers-0.315.1
+2023-10-25 18:03:47.158 [info] Extracting extension completed. ms-vscode-remote.remote-containers
+2023-10-25 18:03:48.806 [info] Extracted extension to file:///home/talisag/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5883: ms-vsliveshare.vsliveshare
+2023-10-25 18:03:48.824 [info] Renamed to /home/talisag/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5883
+2023-10-25 18:03:48.832 [info] Extracting extension completed. ms-vsliveshare.vsliveshare
+2023-10-25 18:03:58.509 [info] Extracted extension to file:///home/talisag/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2023-10-25 18:03:58.530 [info] Renamed to /home/talisag/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2023-10-25 18:03:58.537 [info] Extracting extension completed. ritwickdey.liveserver
+2023-10-25 18:03:58.970 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 18:03:58.970 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 18:03:58.970 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 18:03:58.971 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 18:03:59.022 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 18:03:59.022 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 18:03:59.022 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 18:03:59.022 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 18:03:59.066 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 18:03:59.068 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 18:03:59.069 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 18:03:59.070 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 18:03:59.605 [warning] Extension signature verification failed with error 'ENOENT': ms-vscode.azure-repos
+2023-10-25 18:03:59.655 [warning] Extension signature verification failed with error 'ENOENT': lostintangent.vsls-whiteboard
+2023-10-25 18:03:59.694 [warning] Extension signature verification failed with error 'ENOENT': github.remotehub
+2023-10-25 18:03:59.908 [info] Extracted extension to file:///home/talisag/.vscode-server/extensions/lostintangent.vsls-whiteboard-0.0.12: lostintangent.vsls-whiteboard
+2023-10-25 18:03:59.922 [info] Renamed to /home/talisag/.vscode-server/extensions/lostintangent.vsls-whiteboard-0.0.12
+2023-10-25 18:03:59.926 [info] Extracting extension completed. lostintangent.vsls-whiteboard
+2023-10-25 18:03:59.945 [info] Extracted extension to file:///home/talisag/.vscode-server/extensions/ms-vscode.azure-repos-0.38.0: ms-vscode.azure-repos
+2023-10-25 18:03:59.963 [info] Renamed to /home/talisag/.vscode-server/extensions/ms-vscode.azure-repos-0.38.0
+2023-10-25 18:03:59.971 [info] Extracting extension completed. ms-vscode.azure-repos
+2023-10-25 18:03:59.994 [info] Extracted extension to file:///home/talisag/.vscode-server/extensions/github.remotehub-0.62.0: github.remotehub
+2023-10-25 18:04:00.003 [info] Renamed to /home/talisag/.vscode-server/extensions/github.remotehub-0.62.0
+2023-10-25 18:04:00.010 [info] Extracting extension completed. github.remotehub
+2023-10-25 18:04:00.137 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 18:04:00.137 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 18:04:00.137 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 18:04:00.137 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 18:04:00.854 [warning] Extension signature verification failed with error 'ENOENT': sugatoray.vscode-remotework-extension-pack
+2023-10-25 18:04:01.395 [info] Extracted extension to file:///home/talisag/.vscode-server/extensions/sugatoray.vscode-remotework-extension-pack-1.1.4: sugatoray.vscode-remotework-extension-pack
+2023-10-25 18:04:01.408 [info] Renamed to /home/talisag/.vscode-server/extensions/sugatoray.vscode-remotework-extension-pack-1.1.4
+2023-10-25 18:04:01.412 [info] Extracting extension completed. sugatoray.vscode-remotework-extension-pack
+2023-10-25 18:04:01.427 [info] Extension installed successfully: ms-vscode-remote.vscode-remote-extensionpack
+2023-10-25 18:04:01.427 [info] Extension installed successfully: ms-vscode.remote-explorer
+2023-10-25 18:04:01.427 [info] Extension installed successfully: gitpod.gitpod-remote-ssh
+2023-10-25 18:04:01.427 [info] Extension installed successfully: ms-vscode.live-server
+2023-10-25 18:04:01.427 [info] Extension installed successfully: ms-vscode-remote.remote-ssh-edit
+2023-10-25 18:04:01.428 [info] Extension installed successfully: ms-vscode.remote-server
+2023-10-25 18:04:01.428 [info] Extension installed successfully: ms-vscode.remote-repositories
+2023-10-25 18:04:01.428 [info] Extension installed successfully: ms-vscode-remote.remote-ssh
+2023-10-25 18:04:01.428 [info] Extension installed successfully: ms-vscode-remote.remote-wsl
+2023-10-25 18:04:01.428 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2023-10-25 18:04:01.428 [info] Extension installed successfully: gitpod.gitpod-desktop
+2023-10-25 18:04:01.428 [info] Extension installed successfully: ms-vscode-remote.remote-containers
+2023-10-25 18:04:01.429 [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+2023-10-25 18:04:01.429 [info] Extension installed successfully: ritwickdey.liveserver
+2023-10-25 18:04:01.431 [info] Extension installed successfully: lostintangent.vsls-whiteboard
+2023-10-25 18:04:01.432 [info] Extension installed successfully: ms-vscode.azure-repos
+2023-10-25 18:04:01.432 [info] Extension installed successfully: github.remotehub
+2023-10-25 18:04:01.432 [info] Extension installed successfully: sugatoray.vscode-remotework-extension-pack
+2023-10-25 18:04:01.611 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 18:04:01.617 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 18:04:01.618 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 18:04:01.619 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 18:07:12.747 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 18:07:12.748 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 18:07:12.748 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 18:07:12.748 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 18:12:12.877 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 18:12:12.877 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 18:12:12.877 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 18:12:12.877 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 18:17:12.972 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 18:17:12.972 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 18:17:12.972 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 18:17:12.972 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 18:22:13.093 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 18:22:13.093 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 18:22:13.093 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 18:22:13.094 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 18:27:13.187 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 18:27:13.187 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 18:27:13.187 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 18:27:13.187 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 18:32:13.303 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 18:32:13.303 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 18:32:13.303 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 18:32:13.303 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 18:37:13.429 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 18:37:13.430 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 18:37:13.430 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 18:37:13.430 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 18:42:13.674 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 18:42:13.674 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 18:42:13.674 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 18:42:13.674 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 18:47:13.793 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 18:47:13.793 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 18:47:13.793 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 18:47:13.793 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 18:52:13.888 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 18:52:13.889 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 18:52:13.889 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 18:52:13.889 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 18:57:13.996 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 18:57:13.996 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 18:57:13.997 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 18:57:13.997 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 19:02:14.348 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 19:02:14.348 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 19:02:14.348 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 19:02:14.348 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 19:07:51.349 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 19:07:51.349 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 19:07:51.349 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 19:07:51.349 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 19:13:51.315 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 19:13:51.315 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 19:13:51.315 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 19:13:51.315 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 19:19:51.317 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 19:19:51.317 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 19:19:51.317 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 19:19:51.317 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 19:25:51.320 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 19:25:51.324 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 19:25:51.324 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 19:25:51.324 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 19:31:51.306 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 19:31:51.306 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 19:31:51.306 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 19:31:51.306 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 19:37:51.303 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 19:37:51.303 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 19:37:51.303 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 19:37:51.303 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 19:43:51.300 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 19:43:51.300 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 19:43:51.300 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 19:43:51.300 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 19:49:51.308 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 19:49:51.308 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 19:49:51.308 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 19:49:51.308 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 19:55:51.314 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 19:55:51.314 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 19:55:51.314 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 19:55:51.314 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 20:01:51.305 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 20:01:51.305 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 20:01:51.305 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 20:01:51.305 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 20:07:51.350 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 20:07:51.351 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 20:07:51.351 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 20:07:51.351 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 20:13:51.308 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 20:13:51.308 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 20:13:51.308 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 20:13:51.308 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 20:19:51.309 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 20:19:51.309 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 20:19:51.309 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 20:19:51.311 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 20:25:51.310 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 20:25:51.310 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 20:25:51.310 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 20:25:51.310 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 20:31:51.318 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 20:31:51.318 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 20:31:51.318 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 20:31:51.318 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 20:37:51.309 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 20:37:51.309 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 20:37:51.309 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 20:37:51.309 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 20:43:51.310 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 20:43:51.310 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 20:43:51.310 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 20:43:51.310 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 20:49:51.309 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 20:49:51.309 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 20:49:51.309 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 20:49:51.309 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 20:55:51.327 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 20:55:51.327 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 20:55:51.327 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 20:55:51.327 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 21:01:51.356 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 21:01:51.356 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 21:01:51.356 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 21:01:51.356 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 21:07:51.345 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 21:07:51.345 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 21:07:51.346 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 21:07:51.346 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 21:13:51.344 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 21:13:51.344 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 21:13:51.344 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 21:13:51.344 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 21:19:51.335 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 21:19:51.335 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 21:19:51.335 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 21:19:51.335 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 21:22:28.349 [info] [127.0.0.1][3743de7a][ExtensionHostConnection] The client has reconnected.
+2023-10-25 21:22:28.730 [info] [127.0.0.1][b09ebdf4][ManagementConnection] The client has reconnected.
+2023-10-25 21:22:28.775 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 21:22:28.776 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 21:22:28.776 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 21:22:28.776 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 21:28:02.439 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 21:28:02.440 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 21:28:02.440 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 21:28:02.440 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 21:34:32.476 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 21:34:32.478 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 21:34:32.478 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 21:34:32.478 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 21:41:01.651 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 21:41:01.652 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 21:41:01.652 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 21:41:01.653 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 21:46:26.856 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 21:46:26.856 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 21:46:26.856 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 21:46:26.857 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 21:51:52.047 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 21:51:52.047 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 21:51:52.047 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 21:51:52.047 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 21:57:17.214 [warning] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+2023-10-25 21:57:17.214 [warning] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+2023-10-25 21:57:17.214 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+2023-10-25 21:57:17.214 [warning] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+2023-10-25 22:02:10.759 [info] [127.0.0.1][b09ebdf4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-25 22:02:10.933 [info] [127.0.0.1][3743de7a][ExtensionHostConnection] <649> Extension Host Process exited with code: 0, signal: null.
